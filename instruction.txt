@@ -1,0 +1,32 @@
+Установка
+
+Вариант 1
+
+команды bash (просто вводим в терминале, обычно он по умолчанию bash)
+
+1. 
+
+git clone https://github.com/kurbanovexp/ydc.git
+cd ydc
+
+2.
+pip install -r requirements.txt
+python ydc.py
+
+Вариант 2 
+
+
+1.установить самостоятельно 
+
+a. Pillow
+b. numpy
+c. opencv-python
+
+2. скачать ydc.py
+
+************************************
+Запуск
+
+команда в терминале, важно прописывать непоредственно в директории скрипта или можно запустить через IDE
+
+python3 ydc.py
