@@ -5,9 +5,9 @@
 2. Автором скрипта является Курбанов Якуб.
 3. Скрипт написан при помощи Chat GPT5.
 
-4. Копирование, распространение, изменение и иные операции с программным кодом этого скрипта являются нарушением авторских прав.
+4. Копирование, распространение, изменение и иные операции с программным кодом этого скрипта без указания первоисточник являются нарушением авторских прав.
 
-5. Программный год предоставляется как есть и автор не несет ответственности за нарушенние исправности или работоспособности аппаратных средств, которые могут получить пользователи в ходе скачивания и применения настоящего скрипта
+5. Программный код предоставляется как есть и автор не несет ответственности за нарушенние исправности или работоспособности аппаратных средств, которые могут получить пользователи в ходе скачивания и применения настоящего скрипта
 
 6. При использовании исходного кода настоящего скрипта автор просит использовать ссылки на его ресурс и использовать его имя при указании источников. 
 
@@ -19,12 +19,12 @@ YOLO Dataset Creator Software
 
 2. The author of the script is Kurbanov Yakub.
 
-3. The script was written using Chat GPT5.
+3. The script is written using Chat GPT5.
 
-4. Copying, distributing, changing and other operations with the program code of this script are a violation of copyright.
+4. Copying, distributing, changing and other operations with the program code of this script without specifying the original source are a violation of copyright.
 
-5. The software is provided as is and the author is not responsible for the violation of the serviceability or operability of hardware that users may receive during downloading and using this script.
+5. The program code is provided as is and the author is not responsible for the violation of the serviceability or operability of hardware that users may receive during downloading and using this script
 
-6. When using the source code of this script, the author asks to use links to his resource and use his name when indicating sources.
+6. When using the source code of this script, the author asks to use links to his resource and use his name when specifying sources.
 
 7. The software is designed to mark objects on digital images of objects in order to form a database for training YOLO models
